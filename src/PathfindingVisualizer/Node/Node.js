@@ -7,7 +7,6 @@ export default function Node (props) {
 
   return (
     <div className="node">
-      
     </div>
   )
 }
